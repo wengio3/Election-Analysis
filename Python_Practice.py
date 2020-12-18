@@ -40,3 +40,19 @@ for county_dict in voting_data:
 for county_dict in voting_data:
     print(county_dict['county'])
 
+my_votes = int(input("How may votes did you get in the election?"))
+total_votes = int(input("what is the total votes in the election"))
+print(f"I received {my_votes/total_votes*100}% of total votes.")
+   
+for county, voters in counties_dict.items():
+    print(f"{county} county has {voters} registered voters.")
+candidate_votes = int(input("How many votes did the candidate get in the elecion?"))
+total_votes = int(input("What is the total number of votes in the election?"))
+messsage_to_candidate = (
+    f"You received {candidate_votes} number of votes."
+    f"The total number of votes in the election was {total_votes}."
+    f"you received {candidate_votes/total_votes * 100:2f}% of the total votes.")
+   
+print(messsage_to_candidate)
+
+    
