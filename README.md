@@ -48,7 +48,7 @@ The purpose of this election audit analysis was to take all the election data co
 . The winner of the election was Diana DeGette, with a vote Count of  272,892 and  73.8% of the total vote. 
 
 There is a picture provided below for a better understanding of the election results. 
-![](Resources/Election _results.png)
+ < img src="Resources/Election _results.png" width=100>
 
 
 
