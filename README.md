@@ -52,5 +52,24 @@ There is a picture provided below for a better understanding of the election res
 <img width="388" alt="Election _results" src="https://user-images.githubusercontent.com/74740339/102721515-392c5b00-42c9-11eb-99b8-1d5df2977f39.png">
 
 
+# Election-Audit Summary:
+
+
+This analysis was created using Python, making it reusable for similar tasks that need to be performed in the future. We can do this in a few different ways; here are two good examples: 
+
+1.Defining a Function 
+A function is a  block of reusable codes. The keyword for a function block is def, followed by the function name and parentheses ( ( ) ). for more information on the defining function, here is a future reading https://www.tutorialspoint.com/python/python_functions.htm
+
+
+2. Change the .csv file its linked to 
+Since we are using the .csv files to import the data we used for this analysis, using a different .csv file and making a few modifications to our code, we can reuse the code to analyze other election results. 
+
+
+
+
+
+
+
+
 
 
