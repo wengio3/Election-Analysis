@@ -15,6 +15,7 @@
 
 # Resources 
 . Data source: election_results.csv
+
 . software: Python 3.6.1, Visual Studio Code,  1.52.1
 
 # Summary
